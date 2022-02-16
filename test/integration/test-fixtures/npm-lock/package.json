@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "collapse-white-space": "^2.0.0",
+    "collapse-white-space": "^2.1.0",
     "insert-css": "^2.0.0"
   },
   "devDependencies": {
