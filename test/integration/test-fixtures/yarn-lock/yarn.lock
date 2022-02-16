@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-collapse-white-space@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/collapse-white-space/-/collapse-white-space-2.0.0.tgz#37d8521344cdd36635db180a7c83e9d515ac281b"
-  integrity sha512-eh9krktAIMDL0KHuN7WTBJ/0PMv8KUvfQRBkIlGmW61idRM2DJjgd1qXEPr4wyk2PimZZeNww3RVYo6CMvDGlg==
+collapse-white-space@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/collapse-white-space/-/collapse-white-space-2.1.0.tgz#640257174f9f42c740b40f3b55ee752924feefca"
+  integrity sha512-loKTxY1zCOuG4j9f6EPnuyyYkf58RnhhWTvRoZEokgB+WbdXehfjFviyOVYkqzEWz1Q5kRiZdBYS5SwxbQYwzw==
 
 lru-cache@^6.0.0:
   version "6.0.0"
